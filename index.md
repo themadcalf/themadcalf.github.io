@@ -5,6 +5,3 @@ Anything happening here? Edit the `index.md` file to change this content. All pa
 ## This is a title
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
-
-<img src="images/logo.png">
-<img src="images/logo.png">
